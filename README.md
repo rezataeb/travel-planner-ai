@@ -2,8 +2,8 @@ markdown# 🗺️ Travel Planner AI: Personalized Itinerary Generator
 
 **Google AI Agent Development Program - Capstone Project**  
 **Track:** Concierge Agents  
-**Author:** [Your Name]  
-**Submission Date:** November 30, 2025
+**Author:** Reza Taeb  
+**Submission Date:** December 01, 2025
 
 ---
 
