@@ -214,11 +214,6 @@ add_to_memory("museums")
 
 [Reza Taeb]
 
----
-
-## 📄 License
-
-MIT License - Free to use and modify
 
 ---
 
