@@ -55,14 +55,14 @@ User Input → Memory System → Agent Pipeline → Final Itinerary
 
 ---
 
-## ✅ Implemented Features (4/4 Required)
+## ✅ Implemented Features 
 
 | Feature | Implementation | Status |
 |---------|---------------|--------|
-| **Multi-Agent System** | 3 sequential agents (POI Researcher → Itinerary Builder → Formatter) | ✅ Complete |
-| **Built-in Tools** | Google Search for real-time POI discovery | ✅ Complete |
-| **Long-Term Memory** | User preferences, favorite activities, past destinations | ✅ Complete |
-| **Bonus: Gemini** | Powered by Gemini 2.5 Flash | ✅ Complete (+5 pts) |
+| **Multi-Agent System** | 3 sequential agents (POI Researcher → Itinerary Builder → Formatter) | 
+| **Built-in Tools** | Google Search for real-time POI discovery | 
+| **Long-Term Memory** | User preferences, favorite activities, past destinations | 
+| **Bonus: Gemini** | Powered by Gemini 2.5 Flash | 
 
 ---
 
@@ -73,7 +73,6 @@ User Input → Memory System → Agent Pipeline → Final Itinerary
 - **Model:** Gemini 2.5 Flash
 - **Tools:** Google Search (built-in)
 - **Memory:** In-memory storage with persistence capability
-- **Output:** Markdown format
 
 ---
 
@@ -157,18 +156,6 @@ add_to_memory("museums")
 - 🎯 **Better Results:** Personalized vs generic recommendations
 - 📈 **Improves Over Time:** Memory makes each trip better
 - 📱 **Ready to Use:** Exportable Markdown format
-
----
-
-## 📈 Project Metrics
-
-| Metric | Value |
-|--------|-------|
-| Development Time | 8 hours |
-| Lines of Code | ~400 |
-| Number of Agents | 3 (Sequential) |
-| Features Implemented | 4 (+ 1 bonus) |
-| Expected Score | 100/100 |
 
 ---
 
