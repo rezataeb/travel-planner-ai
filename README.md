@@ -57,8 +57,8 @@ User Input → Memory System → Agent Pipeline → Final Itinerary
 
 ## ✅ Implemented Features 
 
-| Feature | Implementation | Status |
-|---------|---------------|--------|
+| Feature | Implementation | 
+|---------|---------------|
 | **Multi-Agent System** | 3 sequential agents (POI Researcher → Itinerary Builder → Formatter) | 
 | **Built-in Tools** | Google Search for real-time POI discovery | 
 | **Long-Term Memory** | User preferences, favorite activities, past destinations | 
