@@ -1,4 +1,4 @@
-🗺️ Travel Planner AI: Personalized Itinerary Generator
+### 🗺️ Travel Planner AI: Personalized Itinerary Generator
 
 **Google AI Agent Development Program - Capstone Project**  
 **Track:** Concierge Agents  
